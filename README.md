@@ -1,2 +1,2 @@
 # Encyclopedia-Brown
-a resources for world travelers to learn, explore, and communicate
+a resource for world travelers to learn, explore, and communicate
