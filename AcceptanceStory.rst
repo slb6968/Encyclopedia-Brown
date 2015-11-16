@@ -70,8 +70,8 @@ As Dora the Explorer, I want to have one source of information so that I can mor
 Acceptance Stories
 ^^^^^^^^^^^^^^^^^^
 
-Dora Travels Safely
-```````````````````
+Dora Finds What She Needs
+`````````````````````````
 
 ::
 
@@ -81,6 +81,27 @@ Dora Travels Safely
     Then she will be able to review it at any time,
         And this will aid her in selecting a final destination.
 
+Dora Has an Opinion
+```````````````````
+
+::
+
+    Given Dora has selected a destination, 
+        And has made her travel arrangements (not on Encyclopedia Brown), 
+    When Dora returns (or during her trip), she will be able to select "My Reviews" to add her opinions on what she's seen,
+    Then she will be able to save this information,
+        And other travelers will be able to view it to assist in their selection process.
+
+Diego Questions Dora
+````````````````````
+
+::
+
+    Given Diego has been researching travel destinations, 
+        And has stumbled upon Dora's review, 
+    When Diego selects "Reply", he'll be able to write a response to Dora,
+    Then he'll be able to get additional information,
+        And this will aid him in selecting a final destination.
 
 Encyclopedia-Brown
 
