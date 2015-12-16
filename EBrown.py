@@ -33,14 +33,14 @@ while not exit:
     if choice == '1':
         reviews.add_review()
     elif choice == '2':
-        pass
+        reviews.search_reviews()
     elif choice == '3':
-        pass
+        reviews.search_locales()
     elif choice == '4':
         travelhangman.go_play_hm()
     elif choice == '5':
         print '\nENCYCLOPEDIA BROWN\'s magic 8 ball says you should travel to:'
-        print '\n{0} in {1}\n'.format(random.choice(reviews.locales).upper(),
+        print '\n{0} in {1}\n'.format(random.choice(reviews.LOCALES).upper(),
                           random.randint(2016, 2046))
     elif choice == '6':
         exit = True
