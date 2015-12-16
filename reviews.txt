@@ -1,0 +1,70 @@
+(dp0
+S'Paris'
+p1
+(dp2
+sS'Bangkok'
+p3
+(dp4
+sS'Rio'
+p5
+(dp6
+S'Rio2015-12-15 23:30:32.147000gogal'
+p7
+(lp8
+S'Rio'
+p9
+acdatetime
+datetime
+p10
+(S'\x07\xdf\x0c\x0f\x17\x1e \x02>8'
+p11
+tp12
+Rp13
+aS'Summer Olympics 2016'
+p14
+aS"I'm looking forward to visiting Brazil for the summer Olympics next year."
+p15
+aS'gogal'
+p16
+assS'Accra'
+p17
+(dp18
+sS'Sydney'
+p19
+(dp20
+sS'NYC'
+p21
+(dp22
+S'NYC2015-12-15 22:09:22.624000trvlrs'
+p23
+(lp24
+S'NYC'
+p25
+ag10
+(S'\x07\xdf\x0c\x0f\x16\t\x16\t\x85\x80'
+p26
+tp27
+Rp28
+aS'A Big Apple Visit'
+p29
+aS"I visit the Big Apple every year.\\n It's a great place. I love it.\\nNext year, I'm going to visit Shea Stadium."
+p30
+aS'trvlrs'
+p31
+asS'NYC2015-12-15 22:08:56.469000shegoes'
+p32
+(lp33
+S'NYC'
+p34
+ag10
+(S'\x07\xdf\x0c\x0f\x16\x088\x07(\x08'
+p35
+tp36
+Rp37
+aS'To NYC'
+p38
+aS'I went to NYC last summer. It was great.'
+p39
+aS'shegoes'
+p40
+ass.
